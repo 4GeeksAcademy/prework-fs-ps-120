@@ -1,0 +1,17 @@
+body {
+    background: rgba(54, 247, 237, 0.247);
+    color: blue;
+}
+
+
+#mensaje1 {
+    color: white
+}
+
+.parrafo p {
+background-color: pink;
+border: 1px solid black;
+color: rgb(108, 82, 237)
+}
+
+
